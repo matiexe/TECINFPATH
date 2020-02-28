@@ -24,7 +24,7 @@
 
 ### [MATERIAS DE SEXTO AÑO](https://github.com/matiexe/TECINFPATH/tree/master/SEXTO)
 
-* Mantenimiento y Manejo de Datos
+* [Mantenimiento y Manejo de Datos](https://github.com/matiexe/TECINFPATH/blob/master/QUINTO/mant_y_manejo_de_datos.md)
 * Mantenimiento, Conversion y Reparación de Software
 * Progrmación Aplicada
 * Diseño de Aplicaciones Informaticas 2
