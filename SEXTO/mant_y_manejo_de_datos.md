@@ -2,6 +2,11 @@
 
 ## Capacidades Especificas
 
+* Resguardar y restaurar archivos locales del usuario con datos o programas
+* Reparar datos o archivos afectados por la operatoria del usuario por mal funcionamiento por mal funcionamiento de componentes o por la acción de virus  informáticos.
+* Realizar las acciones necesarias que correspondan para prevenir los inconvenientes y pérdida de datos que produce la acción de virus informáticos
+* Reorganizar periódicamente los datos del usuario tanto en forma física como lógica para mantener la eficiencia operatoria.
+
 Ejes Comunes | Dominio de Contenidos
 -------------|-----------------------
 Almacenamiento |Diferente tipos de unidades de almacenamiento -  organización y clasificación de la información y del almacenamiento de datos - Formato de representación y almacenamiento de datos(ASCII-Unicode-EBCDIC)-Sistema de ficheros(NTFS-FAT-FAT32-exFAT-ISO9660-XFS-JFS-UFS-ext2-ext3)
