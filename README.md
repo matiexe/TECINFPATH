@@ -22,7 +22,7 @@
 * Programación
 * Practicas Profesionalizante 1
 
-### MATERIAS DE SEXTO AÑO 
+### [MATERIAS DE SEXTO AÑO](https://github.com/matiexe/TECINFPATH/tree/master/SEXTO)
 
 * Mantenimiento y Manejo de Datos
 * Mantenimiento, Conversion y Reparación de Software
