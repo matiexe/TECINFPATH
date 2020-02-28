@@ -9,14 +9,14 @@
 * Instalación de Equipos Informaticos
 * Asistencia sobre Utilitarios
 * Introducción a la Programación
-* Introducción al Diseño Multimedial
-* Introducción a Base de Datos
+* [Introducción al Diseño Multimedial](https://github.com/matiexe/TECINFPATH/blob/master/CUARTO/introduccion%20_al_dise%C3%B1o_multimedial.md)
+* [Introducción a Base de Datos](https://github.com/matiexe/TECINFPATH/blob/master/CUARTO/introduccion_%20a%20_base%20_de%20_datos.md)
 
 
 ### [ MATERIAS DE QUINTO AÑO ](https://github.com/matiexe/TECINFPATH/tree/master/QUINTO)
 * Instalación y Reemplazo de Componentes Internos
 * Redes de Comunicaciones
-* Instalación y Configuración de Software
+* [Instalación y Configuración de Software](https://github.com/matiexe/TECINFPATH/blob/master/QUINTO/instalacion_y_conf_de_soft.md)
 * Diseño de Aplicaciones Informaticas 1
 * Asistencia sobre Aplicaciones Especificas
 * Programación
